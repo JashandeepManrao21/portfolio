@@ -25,7 +25,7 @@ const Contact = () => (
       out!
     </p>
     <a
-      href="mailto:jashandeepmanrao@email.com"
+      href="   jashandeepmanrao21@gmail.com"
       style={{
         color: "#007bff",
         textDecoration: "none",
@@ -33,7 +33,7 @@ const Contact = () => (
         fontSize: "1.1rem",
       }}
     >
-      jashandeepmanrao@email.com
+      jashandeepmanrao21@gmail.com
     </a>
   </section>
 );

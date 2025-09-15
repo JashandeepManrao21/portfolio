@@ -9,6 +9,9 @@ const Home = () => (
       dark:bg-gradient-to-r dark:from-purple-400 dark:to-blue-400">
       Welcome to My Portfolio
     </h1>
+   <div className="w-48 h-52 overflow-hidden rounded-lg mb-6">
+  <img src="/img 2.jpg" alt="Profile" className="w-full h-full object-cover" />
+</div>
     <p className="text-lg md:text-xl max-w-xl text-center mb-8">
       Hi, I'm <span className="font-semibold text-blue-700 dark:text-purple-400">Jashandeep Manrao</span>, a passionate developer. Explore my work, skills, and projects below!
     </p>
